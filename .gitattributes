@@ -1,0 +1,8 @@
+*.ts linguist-detectable
+
+public/* linguist-vendored
+Cargo.lock linguist-generated
+src/**/*.ts linguist-detectable
+dist/* linguist-vendored
+*.md linguist-documentation
+*.yaml linguist-detectable=false
